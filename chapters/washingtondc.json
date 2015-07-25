@@ -1,0 +1,10 @@
+{
+  "name": "NodeSchool DC",
+  "location": "Washington, DC",
+  "country": "US",
+  "region": "North America",
+  "organizers": ["joshfinnie", "robbiethegeek", "juancaicedo"],
+  "website": "",
+  "twitter": "",
+  "repo": "https://github.com/nodeschool/washingtondc"
+}
